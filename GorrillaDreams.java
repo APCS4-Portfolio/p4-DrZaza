@@ -2,7 +2,7 @@ import java.util.Scanner;
 
     public class GorrillaDreams 
     {
-        public static void main(String[] args)
+        public void play()
         {
             Scanner input = new Scanner(System.in);//defined all variables
             boolean dreaming = true;
